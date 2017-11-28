@@ -1,7 +1,9 @@
-::Swap Radmin.dll
-::Интерактиная смена версии библиотеки консоли управления 1С
-::Version 0.2
-::Rudakov E.A.
+:: Swap Radmin.dll
+:: Интерактиная смена версии библиотеки консоли управления 1С
+:: Version 0.2
+:: Rudakov E.A.
+:: https://github.com/DonPager/1c-swadmin 
+
 @Echo Off
 at > nul
 IF %errorlevel% NEQ 0 (
